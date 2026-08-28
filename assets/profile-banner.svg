@@ -1,5 +1,5 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-  <title id="title">Ho Nguyen Thien Vu — AI Engineer and AI Automation Specialist</title>
+  <title id="title">Ho Nguyen Thien Vu — AI Engineer and AI Transformation Specialist</title>
   <desc id="desc">A dark premium profile banner with an abstract neural network motif.</desc>
   <defs>
     <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
@@ -35,16 +35,16 @@
   <ellipse cx="1080" cy="300" rx="350" ry="240" fill="url(#glowPurple)"/>
 
   <g transform="translate(74 73)">
-    <rect width="238" height="34" rx="17" fill="#17233a" stroke="#38bdf8" stroke-opacity="0.42"/>
+    <rect width="258" height="34" rx="17" fill="#17233a" stroke="#38bdf8" stroke-opacity="0.42"/>
     <circle cx="19" cy="17" r="5" fill="#34d399" filter="url(#nodeGlow)"/>
-    <text x="36" y="22" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="1.15">BUILDING PRACTICAL AI</text>
+    <text x="36" y="22" fill="#cbd5e1" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="13" font-weight="600" letter-spacing="1.05">AI SYSTEMS • AUTOMATION</text>
 
     <text y="104" fill="#f8fafc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="48" font-weight="750" letter-spacing="-1.4">Ho Nguyen Thien Vu</text>
     <rect y="126" width="498" height="4" rx="2" fill="url(#accent)"/>
     <text y="168" fill="#c4b5fd" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="650">AI Engineer</text>
     <circle cx="143" cy="160" r="3" fill="#64748b"/>
-    <text x="159" y="168" fill="#7dd3fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="650">AI Automation Specialist</text>
-    <text y="211" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">Turning models, data, and workflows into reliable AI products.</text>
+    <text x="159" y="168" fill="#7dd3fc" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="23" font-weight="650">AI Transformation Specialist</text>
+    <text y="211" fill="#94a3b8" font-family="Inter,Segoe UI,Arial,sans-serif" font-size="17">From operational challenges to reliable AI systems.</text>
   </g>
 
   <g transform="translate(822 49)" fill="none" stroke-linecap="round">
